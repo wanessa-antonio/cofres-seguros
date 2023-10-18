@@ -9,7 +9,7 @@ Você foi contratado para desenvolver um sistema de cofres seguros. O objetivo �
 
 - O programa permitirá ao usuário digitar o tipo de cofre a ser criado: "digital" ou "físico". 
 - Se for escolhido o tipo "digital", o usuário deve digitar a senha e a confirmação de senha do cofre digital (ambas com apenas números). 
-- Caso seja escolhido o tipo "físico", não é necessário nenhuma outra entrada.
+- Caso seja escolhido o tipo "físico", não há nenhuma saída, também não é necessário nenhuma outra entrada.
 
 Exemplos:
 
